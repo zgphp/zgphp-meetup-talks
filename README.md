@@ -13,7 +13,7 @@ Once your PR is merged, your talk is scheduled for one of next meetups!
 
 ### Talk submission steps
 
-Copy the `talk-description-template.md` file from the root of this project and name it in the following format `your-name--talk-title-goes-here` (e.g. `zoran-antolovic--the-perfect-cheesecake`).
+Copy the [talk-description-template.md](https://github.com/zgphp/zgphp-meetup-talks/blob/master/talk-description-template.md) file from the root of this project and name it in the following format `your-name--talk-title-goes-here` (e.g. `zoran-antolovic--the-perfect-cheesecake`).
 
 Within the file you'll find placeholders for:
 - speaker full name
@@ -31,8 +31,10 @@ We'll take care of the rest or discuss the details with you in PR comments.
 ## Talks Wishlist
 
 We'll use GitHub issue tracker on this project to establish a wishlist.  
+
 If there is a topic you're interested in hearing more about, you're welcome to create a new issue and describe the topic.
-__Important__: Please, go through the issue list and see if there is an issue with the same (or very similar) topic. If there is somethin really similar to what you'd want to hear more about, add a thumb up 👍🏻 instead of creating a new issue.
+
+⚠️ __Important__: Please, go through the issue list and see if there is an issue with the same (or very similar) topic. If there is somethin really similar to what you'd want to hear more about, add a thumb up 👍🏻 instead of creating a new issue.
 
 
 ## Disclaimer
