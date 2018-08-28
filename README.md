@@ -23,7 +23,7 @@ Within the file you'll find placeholders for:
 - speaker short bio
 - requirements
 
-Edit the file content and save it in a directory that represents the meetup (i.e. the month) you're interested in talking at.
+Edit the file content and save it in a directory within the `meetup` directory that represents the meetup (i.e. the month) you're interested in talking at. For example, If you want to give a talk on ZgPHP Meetup in July, 2020., place your submission file in `meetups/2020/07` directory.
 
 And that's it! You're now ready to make a new __pull request__ and complete your talk submission.
 We'll take care of the rest or discuss the details with you in PR comments.
