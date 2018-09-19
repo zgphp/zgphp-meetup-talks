@@ -5,7 +5,7 @@
 
 ## Description
 
-Have you ever discussed authentication and authorization? Ever exchanged googled about "access token", "grant type" or "scope"?
+Have you ever discussed authentication and authorization? Ever googled about "access token", "grant type" or "scope"?
 If you have used Oauth2 but never dug into it or plan to use Oauth2 this is a talk to visit.
 We will cover what makes Oauth2 and how it works by looking into details of it and discuss some thoughts about it.
 This will be a bit different talk concept that will aim to provide workshop-like atmosphere and include the participants in being engaged in the topic.
