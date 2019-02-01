@@ -1,0 +1,24 @@
+# Code archeology - refactoring legacy app
+
+- __Speaker__: Ivan Herak
+- __Duration__: 25 min
+
+## Description
+
+“Professor of Archaeology, expert on the occult, and how does one say it… obtainer of rare antiquities.”
+_Indiana Jones: Raiders of the lost Ark__
+
+We have all faced legacy code, and the dread of refactoring it to fit new requirements.
+In this talk I would like to share my experiences and practises acquired during upgrade of 6 years old application,
+inside a 10 person team.
+
+I will touch everything from team relationships to practical advices during such a bold move.
+
+## Speaker short bio
+
+My name is Ivan Herak. I'm a PHP developer at Netgen, working mostly in Symfony. My interests include motorcycles, scotch and clean code.
+
+## Requirements
+- Internet connection
+- HDMI cable
+- Microphone stand
