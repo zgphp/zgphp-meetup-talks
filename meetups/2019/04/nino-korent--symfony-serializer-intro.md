@@ -1,21 +1,18 @@
-# Awesome talk title goes here
+# Symfony serializer intro
 
-- __Speaker__: John Doe
-- __Duration__: 25 min
+* *Speaker*: Nino Korent
+* *Duration*: 25 min
 
 ## Description
 
-This is my very first talk I'm giving at ZgPHP. It will be awesome!  
-In the next few sentences I'll tell you more about the topic, well, more about 
-what I'm going to talk about.
-
+The Serializer component is meant to be used to turn objects into a specific format (XML, JSON, YAML, …) and the other way around.
+Even tho it is a complex topic I’ll try to give some reasons how we use it and how can we use it inside Symfony with Symfony serializer component.
 
 ## Speaker short bio
-
-My name is John Doe, I'm a PHP engineer passionate about PHP < 5.6. I like coding directly on production and 
-deploy my projects via FTP!
+My name is Nino Korent and I’m a backend developer.
+I’m focused on PHP and open source technology. Currently working at Q for almost 2 years now.
 
 ## Requirements
-- Internet connection
-- HDMI cable
-- Microphone stand
+* Internet connection
+* HDMI cable
+* Microphone stand
