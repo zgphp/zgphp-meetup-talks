@@ -1,6 +1,6 @@
 # The pushState app - Goodbye to page refresh
 
-- __Speaker__: Dominik Čerelič
+- __Speaker__: Dominik Černelič
 - __Duration__: 30 min
 
 ## Description
