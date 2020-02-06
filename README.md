@@ -1,3 +1,9 @@
+<h1 align="center">
+    <a href="http://zgphp.org/" target="_blank">
+        <img src="https://2019.webcampzg.org/media/uploads/usergroups/zgphp.svg" />
+    </a>
+</h1>
+
 The idea of this repo is to simplify how talks submissions are managed for ZgPHP meetups.
 
 ## Submit a Talk
