@@ -1,6 +1,6 @@
 # Rethinking the API development
 
-- __Speaker__: Zoka
+- __Speaker__: Zoran Antolovic
 - __Duration__: 35 min
 
 ## Description
