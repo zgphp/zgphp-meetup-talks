@@ -23,6 +23,7 @@ Copy the [talk-description-template.md](https://github.com/zgphp/zgphp-meetup-ta
 
 Within the file you'll find placeholders for:
 - speaker full name
+  - speaker contact info - we need a way of contacting you on time if something changes on our end or if we need some additional info
 - talk title
 - duration
 - talk description
@@ -40,7 +41,7 @@ We'll use GitHub issue tracker on this project to establish a wishlist.
 
 If there is a topic you're interested in hearing more about, you're welcome to create a new issue and describe the topic.
 
-⚠️ __Important__: Please, go through the issue list and see if there is an issue with the same (or very similar) topic. If there is somethin really similar to what you'd want to hear more about, add a thumb up 👍🏻 instead of creating a new issue.
+⚠️ __Important__: Please, go through the issue list and see if there is an issue with the same (or very similar) topic. If there is something really similar to what you'd want to hear more about, add a thumb up 👍🏻 instead of creating a new issue.
 
 
 ## Disclaimer
