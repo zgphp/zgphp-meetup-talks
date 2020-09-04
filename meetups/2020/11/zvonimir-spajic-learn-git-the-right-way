@@ -1,0 +1,24 @@
+# Learn git the right way
+
+- __Speaker__: Zvonimir Spajic
+- __Duration__: 30 min
+
+## Description
+
+Git is a standard tool for version control these days so we all use it daily. And we all understand it. Or do we? Well...
+
+Let's face it - git is hard. The main reason for this lies in its UI.  It is full of leaky abstractions. That is why to get comfortable with git you need to gain some understanding of how git works internally.
+
+In this talk, we "open" git's hood and take a look at what happens there when we do our daily operations.
+
+## Speaker short bio
+
+Zvonimir is a passionate software developer highly interested in software architecture and ‘getting it right’. 
+
+Outside work, he likes to keep his mind sharp and body strong by doing different recreational sports.
+ 
+Zvone enjoys reading a good book, listening to all sorts of music, and 'dogs.
+
+## Requirements
+- Internet connection
+- HDMI cable or VGA-display-port converter for Mac
