@@ -15,7 +15,7 @@ Let's go through the process of being responsible open-source developer and main
 
 ## Speaker short bio
 
-Mario Blažek is a Developer Team Lead at Q Agency and a Lead Developer of Jenz. Most of the time uses PHP as a language of choice. He promotes open-source software and PHP-related technologies as one of the organizers of Zagreb PHP User Group (ZgPHP). Likes working with Symfony framework and explores the dark sides of it. He is a Symfony and Twig certified developer. 
+Mario Blažek is a Backend Team Lead at Q Agency and a Lead Developer of Jenz. Most of the time uses PHP as a language of choice. He promotes open-source software and PHP-related technologies as one of the organizers of Zagreb PHP User Group (ZgPHP). Likes working with Symfony framework and explores the dark sides of it. He is a Symfony and Twig certified developer. 
 
 When is not on the primary job, he volunteers as a Chief fire officer at the local fire department. Is married to a beautiful wife and is a father of two sons.
 
