@@ -1,7 +1,7 @@
 # Awesome talk title goes here
 
 - __Speaker__: John Doe
-  - __Contact__: john@doe.com, @jDoeOhn (IRC), @johhnyDoe1441 (Skype) ... you get the picture...
+- __Contact__: john@doe.com, @jDoeOhn (IRC), @johhnyDoe1441 (Skype) ... you get the picture...
 - __Duration__: 25 min
 
 ## Description
