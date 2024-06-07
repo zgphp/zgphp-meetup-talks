@@ -1,4 +1,4 @@
-# Awesome talk title goes here
+# Building scalable APIs with Laravel
 
 - __Speaker__: Steve McDougall
 - __Contact__: juststevemcd@gmail.com, [@juststeveking](https://github.com/juststeveking), [@juststeveking](https://x.com/juststeveking), [@juststeveking](https://youtube.com/@juststeveking)
