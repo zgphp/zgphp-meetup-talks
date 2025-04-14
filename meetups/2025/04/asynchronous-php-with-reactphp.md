@@ -1,4 +1,4 @@
-# The PHP Awakens A Force is in Domain
+# Asynchronous PHP with ReactPHP
 
 - __Speaker__: Matej Dragun
 - __Contact__: matej.dragun@devot.team
