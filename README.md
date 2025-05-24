@@ -1,6 +1,6 @@
 <h1 align="center">
-    <a href="http://zgphp.org/" target="_blank">
-        <img src="https://2019.webcampzg.org/media/uploads/usergroups/zgphp.svg" />
+    <a href="http://zg-php.org/" target="_blank">
+        <img src="https://scontent.fzag1-2.fna.fbcdn.net/v/t39.30808-1/349002033_589038083207987_1259266414988080978_n.jpg?stp=dst-jpg_s480x480_tt6&_nc_cat=111&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=JOGBp16CpboQ7kNvwEBYinm&_nc_oc=AdnGFoqa_AvfNj2_kokK6zCcej-zYjHNNcOYYxk_8hS9uXKX3RBXJ2Zbs47B4OQ__i0&_nc_zt=24&_nc_ht=scontent.fzag1-2.fna&_nc_gid=MDAyTfRVrZDFfcJff5xm_w&oh=00_AfKEolLuGwoutc9JiaNVYimxXCe1hy9IAopO70A9WjICzw&oe=68375144" />
     </a>
 </h1>
 
